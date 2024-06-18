@@ -1,0 +1,63 @@
+body{
+    background-image: url('Assets/bg2.jpeg');
+    background-size: 100%;
+    width: auto;
+    height: fit-content;
+    margin: 50px;
+    flex-direction: column;
+}
+.main{
+    flex: 1;
+}
+.heading-text{
+    font-family: 'Kalam';
+    font-size: 5em;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+div{
+    text-align: center;
+    font-family: 'Playfair Display';
+    font-size: 1.5rem;
+}
+
+.card{
+    display: inline-block;
+}
+
+.Couple-img{
+    width: 95%;
+    height: auto;
+    margin: 10px;
+
+}
+
+.left{
+    width: 35%;
+    margin-left: 150px;
+    float: left;
+
+
+}
+
+.right{
+    width: 40%;
+    margin-right: 100px;
+    float: right;
+    margin-top: 60px;
+}
+.sub-heading{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+#couple-name{
+    font-family: 'Satisfy';
+    font-size: 80px;
+    font-weight: 100;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
